@@ -1,6 +1,6 @@
 # 📌 About Me:
 
-👋 Hi, my name is **Hà Đăng Quang**. <br>🎓 I am a **final-year student** at **HoChiMinh University of Technology and Education**, majoring in **Information Technology**. <br>🚀 I am passionate about backend development and currently looking for an **internship opportunity** to apply my skills and gain real-world experience. <br>💡 Quick learner, motivated, and eager to contribute to a professional development team.
+👋 Hi, my name is **Hà Đăng Quang**. <br>🎓 I am a **final-year student** at **Ho Chi Minh University of Technology and Education**, majoring in **Information Technology**. <br>🚀 I am passionate about backend development and currently looking for an **internship opportunity** to apply my skills and gain real-world experience. <br>💡 Quick learner, motivated, and eager to contribute to a professional development team.
 
 ## 🌐 Socials:
 
