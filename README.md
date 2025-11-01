@@ -1,6 +1,5 @@
-# 📌 About Me:
-
-👋 Hi, I'm Quang. <br>🎓 I am a **final-year student** at **Ho Chi Minh University of Technology and Education**, majoring in **Information Technology**. <br>🚀 I am passionate about software engineering and building **real-world applications** . <br>💡 Quick learner, motivated, and eager to contribute to a professional development team.
+# Summerize: 
+An ordinary boy learning programming. 
 
 ## 🌐 Socials:
 
