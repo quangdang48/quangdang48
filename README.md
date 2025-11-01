@@ -1,4 +1,4 @@
-# Summerize: 
+## Summerize: 
 An ordinary boy learning programming. 
 
 ## 🌐 Socials:
